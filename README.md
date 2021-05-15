@@ -1,6 +1,6 @@
 # smart doc template
 
-The smart doc template project aim to provide the template for those interfaces that can notbe rendered by the [smart-doc](https://github.com/smart-doc-group/smart-doc) project. This requires the [smart-doc-maven-plugin](https://github.com/smart-doc-group/smart-doc-maven-plugin).
+The smart doc template project aim to provide the template for those interfaces that cannot be rendered by the [smart-doc](https://github.com/smart-doc-group/smart-doc) project. This requires the [smart-doc-maven-plugin](https://github.com/smart-doc-group/smart-doc-maven-plugin).
 
 ## Usage
 
