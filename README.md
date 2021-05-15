@@ -1,10 +1,10 @@
 # smart doc template
 
-The smart doc template project is used to provide [smart-doc](https://github.com/smart-doc-group/smart-doc) projects with a replacement for interfaces that are not rendered correctly. It depends on the [smart-doc-maven-plugin](https://github.com/smart-doc-group/smart-doc-maven-plugin) project.
+The smart doc template project aim to provide the template for those interfaces that can notbe rendered by the [smart-doc](https://github.com/smart-doc-group/smart-doc) project. This requires the [smart-doc-maven-plugin](https://github.com/smart-doc-group/smart-doc-maven-plugin).
 
 ## Usage
 
-1. Add a dependency to smart-doc-maven-plugin.
+1. Add the dependency to smart-doc-maven-plugin.
 
 ```xml
 
