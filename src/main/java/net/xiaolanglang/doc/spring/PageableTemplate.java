@@ -1,9 +1,7 @@
 package net.xiaolanglang.doc.spring;
 
 /**
- * Abstract interface for pagination information.
- *
- * @author Oliver Gierke
+ * For pagination information.
  */
 @SuppressWarnings("unused")
 public class PageableTemplate {
@@ -17,7 +15,7 @@ public class PageableTemplate {
     private Integer size;
 
     /**
-     * sorting parameters.
+     * Sorting parameters.
      */
     private String sort;
 }
