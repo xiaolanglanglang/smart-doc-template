@@ -6,7 +6,7 @@
 
     <groupId>net.xiaolanglang</groupId>
     <artifactId>smart-doc-template</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>smart-doc-template</name>
     <description>smart doc template project</description>
     <url>https://github.com/xiaolanglanglang/smart-doc-template</url>
