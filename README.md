@@ -16,7 +16,7 @@ The smart doc template project aim to provide the template for those interfaces 
         <dependency>
             <groupId>net.xiaolanglang.doc</groupId>
             <artifactId>smart-doc-template</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
         </dependency>
     </dependencies>
     <!--...-->
